@@ -10,4 +10,4 @@ random_name = random.randint(0, length_list)
 random_names = names[random_name]
 
 print(f"{random_names} is going to buy the meal today!")
-# Angela, Ben, Jenny, Michael, Chloe
+# # Angela, Ben, Jenny, Michael, Chloe
